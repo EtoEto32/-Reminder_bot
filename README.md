@@ -1,4 +1,4 @@
-# -Reminder_bot
+# Reminder_bot
 teratailを見てこられた方へ
 ```
 /******/ (() => { // webpackBootstrap
